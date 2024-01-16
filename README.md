@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+My name is Andrew Hanrahan and I am a master's student at Syracuse University. I am a Microsoft Learn Student Ambassador.
 
 <!--
 **ahanrahan/ahanrahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
